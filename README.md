@@ -31,7 +31,6 @@
 <a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/230707_323Lab_annual meeting/夏甫开提.pptx">夏甫开提.pptx</a>
 
 <a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/230707_323Lab_annual meeting/陈怡帆.pptx">陈怡帆.pptx</a>
-This is a test
 
 <a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/230707_323Lab_annual meeting/苏凰.pptx">苏凰.pptx</a>
 
