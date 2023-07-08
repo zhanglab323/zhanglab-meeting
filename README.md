@@ -1,5 +1,13 @@
 # zhanglab-meeting
 ## 2022秋
+### 20221224组会
+
+<a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/20221224组会/工作汇报_苏凰.pptx">工作汇报_苏凰.pptx</a>
+
+<a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/20221224组会/工作汇报_夏甫开提.pptx">工作汇报_夏甫开提.pptx</a>
+
+<a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/20221224组会/文献汇报_陈怡帆.pptx">文献汇报_陈怡帆.pptx</a>
+
 ### 20230107组会
 
 <a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/20230107组会/工作汇报_刘西洋.pptx">工作汇报_刘西洋.pptx</a>
