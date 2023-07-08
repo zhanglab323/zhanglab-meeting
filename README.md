@@ -25,3 +25,9 @@
 <a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/230707_323Lab_annual meeting/晋崇毓.pdf">晋崇毓.pdf</a>
 
 <a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/230707_323Lab_annual meeting/刘西洋.pptx">刘西洋.pptx</a>
+
+<a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/230707_323Lab_annual meeting/ 李少金.pptx"> 李少金.pptx</a>
+
+<a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/230707_323Lab_annual meeting/ 宣弘.pptx"> 宣弘.pptx</a>
+
+<a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/230707_323Lab_annual meeting/ 刘钦国.pptx"> 刘钦国.pptx</a>
