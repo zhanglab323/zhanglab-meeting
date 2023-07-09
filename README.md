@@ -53,3 +53,5 @@ This is a test
 <a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/230707_323Lab_annual meeting/刘钦国.pptx">刘钦国.pptx</a>
 
 <a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/230707_323Lab_annual meeting/赵正阳.pptx">赵正阳.pptx</a>
+
+<a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/230707_323Lab_annual meeting/魏同萱.pptx">魏同萱.pptx</a>
